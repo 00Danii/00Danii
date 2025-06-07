@@ -13,7 +13,7 @@ Hola soy Danii
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=00Danii&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trofeos
-![](https://github-profile-trophy.vercel.app/?username=00Danii&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=00Danii&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
