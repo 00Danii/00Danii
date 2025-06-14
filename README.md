@@ -11,7 +11,7 @@ Hola soy Danii
 ![](https://github-readme-stats.vercel.app/api?username=00Danii&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=00Danii&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=00Danii&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=00Danii&theme=github_dark" alt="GitHub Streak" />
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=00Danii&theme=github_dark" alt="GitHub Streak" />]:
 
 ## GitHub Gráfica de Actividad
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=00Danii&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
