@@ -23,3 +23,5 @@ Hola soy Danii
 
 ---
 [![](https://visitcount.itsvg.in/api?id=00Danii&icon=7&color=3)](https://visitcount.itsvg.in)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3156sqnmhck7fvata7a3xsypxfn4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ad3fc0&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
