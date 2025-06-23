@@ -13,7 +13,7 @@ Hola soy Danii
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=00danii&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=00danii&locale=es&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=00danii&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=00danii&radius=16&theme=github-dark&area=false&order=5&custom_title=Hola&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=00danii&radius=16&theme=github-dark&area=false&order=5&custom_title=%20&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
