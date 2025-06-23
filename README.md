@@ -35,6 +35,5 @@ Hola soy Danii
 ###
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/00danii/00danii/output/pacman-contribution-graph-dark.svg" alt="Dark mode graph" />
-</p>
+<img src="https://raw.githubusercontent.com/00danii/00danii/output/snake.svg" alt="Snake animation" />
+
