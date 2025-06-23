@@ -21,3 +21,11 @@ Hola soy Danii
 [![](https://visitcount.itsvg.in/api?id=00Danii&icon=7&color=3)](https://visitcount.itsvg.in)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3156sqnmhck7fvata7a3xsypxfn4&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=ad3fc0&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3156sqnmhck7fvata7a3xsypxfn4&redirect=true)
+
+<div align="center">
+  <a href="https://open.spotify.com/user/3156sqnmhck7fvata7a3xsypxfn4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3156sqnmhck7fvata7a3xsypxfn4&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
