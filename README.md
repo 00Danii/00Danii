@@ -18,6 +18,8 @@ Hola soy Danii
 ![](https://github-profile-trophy.vercel.app/?username=00Danii&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+<img src="https://raw.githubusercontent.com/00danii/00danii/output/snake.svg" alt="Snake animation" />
+
 
 ![](https://github-contributor-stats.vercel.app/api?username=00Danii&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
