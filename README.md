@@ -20,6 +20,16 @@ Hola soy Danii
 ---
 <img src="https://raw.githubusercontent.com/00danii/00danii/output/snake.svg" alt="Snake animation" />
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/00danii/00danii/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/00danii/00danii/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/00danii/00danii/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 ![](https://github-contributor-stats.vercel.app/api?username=00Danii&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
