@@ -20,8 +20,11 @@ Hola soy Danii
 ---
 
 <div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3156sqnmhck7fvata7a3xsypxfn4&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=ad3fc0&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3156sqnmhck7fvata7a3xsypxfn4&redirect=true)
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3156sqnmhck7fvata7a3xsypxfn4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3156sqnmhck7fvata7a3xsypxfn4&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=ad3fc0&bar_color_cover=true" alt="spotify-github-profile" />
+  </a>
 </div>
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/3156sqnmhck7fvata7a3xsypxfn4">
