@@ -27,7 +27,7 @@ Hola soy Danii
 
 ###
 <p align="center">
-  <img src="https://00danii.github.io/00danii/snake-dark.svg" alt="Snake dark animation" />
+  <img src="https://raw.githubusercontent.com/00Danii/00Danii/b923792181be015b0018e67028c1d076c1ba6072/snake-dark.svg" alt="Snake animation" />
 </p>
 
 
