@@ -24,7 +24,7 @@ Hola soy Danii
 
 <div align="center">
   <a href="https://open.spotify.com/user/3156sqnmhck7fvata7a3xsypxfn4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3156sqnmhck7fvata7a3xsypxfn4&count=10&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3156sqnmhck7fvata7a3xsypxfn4&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
