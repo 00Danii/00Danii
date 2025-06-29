@@ -6,13 +6,32 @@ Hola soy Danii
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atreyu_u) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atreyu_u) 
 
 
+# 🚀 Repositorios Destacados
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/00Danii/Ascii-ART" target="_blank">
+        <img src="https://raw.githubusercontent.com/00Danii/Ascii-ART/refs/heads/main/icon.png" width="200" alt="Ascii-ART"/><br>
+        <b>Ascii-ART</b><br>
+        <i>Arte ASCII desde terminal</i>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/00Danii/SCTimer-Term" target="_blank">
+        <img src="https://raw.githubusercontent.com/00Danii/SCTimer-Term/main/images/screen.png" width="200" alt="SCTimer-Term"/><br>
+        <b>SCTimer-Term</b><br>
+        <i>Cronómetro de cubo Rubik en terminal</i>
+      </a>
+    </td>
+  </tr>
+</table>
+
 # 📊 GitHub Estadísticas:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=00danii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=00danii&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=00danii&locale=es&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=00danii&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=00danii&radius=16&theme=github-dark&area=false&order=5&custom_title=%20&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -29,5 +48,8 @@ Hola soy Danii
 <p align="center">
   <img src="https://00danii.github.io/00Danii/snake-dark.svg" alt="Snake animation" />
 </p>
+
+
+
 
 
