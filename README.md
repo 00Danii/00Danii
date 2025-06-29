@@ -9,14 +9,14 @@ Hola soy Danii
 # 🚀 Repositorios Destacados
 <table align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="300">
       <a href="https://github.com/00Danii/Ascii-ART" target="blank">
         <img src="https://raw.githubusercontent.com/00Danii/Ascii-ART/refs/heads/main/icon.png" width="200" alt="Ascii-ART"/><br>
         <b>Ascii-ART</b><br>
         <i>Generación de arte ASCII a partir de cualquier imagen.</i>
       </a>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="300">
       <a href="https://github.com/00Danii/SCTimer-Term" target="blank">
         <img src="https://raw.githubusercontent.com/00Danii/SCTimer-Term/main/images/screen.png" width="200" alt="SCTimer-Term"/><br>
         <b>SCTimer-Term</b><br>
