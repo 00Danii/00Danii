@@ -7,7 +7,7 @@ Hola soy Danii
 
 
 # 🚀 Repositorios Destacados
-<table align="center">
+<table align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" width="200">
       <a href="https://github.com/00Danii/Ascii-ART" target="blank">
