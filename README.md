@@ -1,5 +1,5 @@
 # Sobre mi:
-Hola soy Danii 
+Hola soy Danii.
 
 
 ## 🌐 Redes Sociales:
