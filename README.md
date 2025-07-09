@@ -23,6 +23,13 @@ Hola soy Danii.
         <i>Cronómetro de cubo Rubik en terminal</i>
       </a>
     </td>
+    <td align="center" width="300">
+      <a href="https://github.com/00Danii/Paint" target="blank">
+        <img src="https://i.imgur.com/snkIKQi.png" width="200" alt="Paint"/><br>
+        <b>Paint</b><br>
+        <i>Aplicación de Dibujo</i>
+      </a>
+    </td>
   </tr>
 </table>
 
