@@ -2,10 +2,6 @@
 Hola soy Danii.
 
 
-## 🌐 Redes Sociales:
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atreyu_u) 
-
-
 # 🚀 Repositorios Destacados
 <table align="center" cellpadding="0" cellspacing="0">
   <tr>
