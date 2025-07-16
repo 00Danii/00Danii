@@ -1,3 +1,4 @@
+
 # Sobre mi:
 Hola soy Danii.
 
@@ -51,6 +52,8 @@ Hola soy Danii.
 <p align="center">
   <img src="https://00danii.github.io/00Danii/snake-dark.svg" alt="Snake animation" />
 </p>
+
+
 
 
 
