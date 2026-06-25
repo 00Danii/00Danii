@@ -35,6 +35,13 @@ Hola soy Danii
         <b>Tr-C</b><br>
         <i>Transpilador de código.</i>
       </a>
+    </td>Nebula 
+    <td align="center" width="300">
+      <a href="https://github.com/00Danii/Nebula" target="blank">
+        <img src="https://raw.githubusercontent.com/00Danii/Nebula/main/assets/Nebula.png" width="200" alt="Nébula"/><br>
+        <b>Nébula</b><br>
+        <i>Editor de imágenes Científico-Técnico.</i>
+      </a>
     </td>
   </tr>
 </table>
