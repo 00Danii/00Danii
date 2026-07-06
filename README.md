@@ -50,6 +50,11 @@ Hola soy Danii
 
 <div align="center">
 
+![](https://github-readme-stats.shion.dev/api?username=00danii&theme=github_dark&hid>
+
+![](https://github-readme-stats.shion.dev/api?username=00danii&theme=github_dark&hid>
+
+
   <img src="https://streak-stats.demolab.com?user=00danii&locale=es&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=00danii&radius=16&theme=github-dark&area=false&order=5&custom_title=%20&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
